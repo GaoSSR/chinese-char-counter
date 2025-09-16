@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
+![GUI](https://img.shields.io/badge/GUI-tkinter-orange.svg)
 
 一个简单高效的中文字符统计工具，特别适合在将文本交给大语言模型处理前评估字符数量和token消耗。
 <div align="center">
