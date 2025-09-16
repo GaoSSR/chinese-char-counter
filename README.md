@@ -1,7 +1,8 @@
 # 中文字符统计工具
 
 一个简单高效的中文字符统计工具，特别适合在将文本交给大语言模型处理前评估字符数量和token消耗。
-![Uploading image.png…]()
+<img width="592" height="529" alt="中文字符统计工具" src="https://github.com/user-attachments/assets/fc16bd53-8fd5-48ac-8b47-acd035bfdaa2" />
+
 
 
 ## ✨ 功能特点
